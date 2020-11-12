@@ -4,13 +4,13 @@ Skilled nursing cost reports 2011-2019 in excel
                                                                                                                                         
 SAMPLES OF FULL EXCEL REPORTS BELOW                                                                                                     
                                                                                                                                         
-Sample reports (see links below for full reports - data is too larhe for GiTHub)                                                        
+Sample reports (see links below for full reports - data is too large for GiTHub)                                                        
                                                                                                                                         
-Sample 2011-2019 SNF 1,220 columns 1000 records from 208mb(120k records) full file below                                                
+Sample 2011-2019 SNF 1,220 columns 1,000 records from 208mb(120k records below) full file below                                                
 https://tinyurl.com/y55ovnck                                                                                                            
 https://github.com/rogerjdeangelis/utl-skilled-nursing-cost-reports-2011-2019-in-excel/blob/main/cst_fulldata20112019sample.xlsx        
                                                                                                                                         
-Sample 2011-2019 SNF  122 columns and 1000 rows from 59mb limited file below                                                            
+Sample 2011-2019 SNF  122 columns and 1,000 rows from 59mb(120k records) limited file below                                                            
 https://tinyurl.com/yxk4v6z9                                                                                                            
 https://github.com/rogerjdeangelis/utl-skilled-nursing-cost-reports-2011-2019-in-excel/blob/main/cst_limited20112019sample%20.xlsx      
                                                                                                                                         
