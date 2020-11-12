@@ -1,6 +1,8 @@
 # utl-skilled-nursing-cost-reports-2011-2019-in-excel
- Skilled nursing cost reports 2011-2019 in excel                                                                                         
-                                                                                                                                        
+ Skilled nursing cost reports 2011-2019 in excel 
+ 
+ Under Development
+ 
 GitHub                                                                                                                                  
 https://tinyurl.com/y4ebnthm                                                                                                            
 https://github.com/rogerjdeangelis/utl-skilled-nursing-cost-reports-2011-2019-in-excel                                                  
@@ -26,8 +28,8 @@ https://github.com/rogerjdeangelis/utl-cost-report-analysis
 FULL EXCEL REPORTS                                                                                                                      
                                                                                                                                         
 2011-2019 SNF 1,220 columns 120k records  208mb full file below                                                                         
-    https://tinyurl.com/y3lksl5m                                                                                                        
-    https://drive.google.com/file/d/1VwcasEusitP9C0N7loUCn2ohk7RG3efX/view?usp=sharing                                                  
+    https://tinyurl.com/y4qqhmpx                                                                                                        
+    https://drive.google.com/file/d/1kRDrk1J8IK3nNkQUjs-PHqH6H0bC7pDg/view?usp=sharing                                                 
                                                                                                                                         
                                                                                                                                         
 2011-2019 SNF  122 columns and 1000 rows from 59mb limited file below                                                                   
