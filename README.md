@@ -11,7 +11,7 @@ SAMPLES OF FULL EXCEL REPORTS BELOW
                                                                                                                                         
 Sample reports (see links below for full reports - data is too larhe for GiTHub)                                                        
                                                                                                                                         
-Sample 2011-2019 SNF 1,220 columns 1000 records from 208mb(120k records) full file below                                                
+Sample 2011-2019 SNF 1,220 columns 1000 records from ~400mb(120k records) full file below                                                
 https://tinyurl.com/y55ovnck                                                                                                            
 https://github.com/rogerjdeangelis/utl-skilled-nursing-cost-reports-2011-2019-in-excel/blob/main/cst_fulldata20112019sample.xlsx        
                                                                                                                                         
