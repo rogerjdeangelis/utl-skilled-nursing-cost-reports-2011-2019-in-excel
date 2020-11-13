@@ -3,13 +3,19 @@
  
  Under Development
  
+ Added Fulldata Excel report as of 11/13/2020
+ 
+2011-2020 SNF 1,220 columns 130k records 208mb full file below
+https://tinyurl.com/y2bbdvmu
+https://drive.google.com/file/d/1SzFvN2mdnz7IepdpUQHQm3JRqqRa8TX7/view?usp=sharing
+ 
 GitHub                                                                                                                                  
 https://tinyurl.com/y4ebnthm                                                                                                            
 https://github.com/rogerjdeangelis/utl-skilled-nursing-cost-reports-2011-2019-in-excel                                                  
                                                                                                                                         
 SAMPLES OF FULL EXCEL REPORTS BELOW                                                                                                     
                                                                                                                                         
-Sample reports (see links below for full reports - data is too larhe for GiTHub)                                                        
+Sample reports (see links below for full reports - data is too large for GiTHub)                                                        
                                                                                                                                         
 Sample 2011-2019 SNF 1,220 columns 1000 records from ~400mb(120k records) full file below                                                
 https://tinyurl.com/y55ovnck                                                                                                            
